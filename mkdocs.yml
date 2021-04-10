@@ -11,16 +11,17 @@
 # LIMITATIONS UNDER THE LICENSE.
 
 # Project information
-site_name: Trust over IP – General Template
-site_url: https://trustoverip.github.io/mkdocs-material/
-site_author: Trust over IP Foundation
+site_name: IG0029: Utility Project Implementation Guide
+site_url: https://trustoverip.github.io/IG0029-utility-project-guide
+site_author: ToIP Utility Foundry WG
 site_description: >-
-  Trust over IP Foundation template for general documentation
-  and technical specification using Material for MkDocs
+  ToIP Utlility Foundry Working Group getting started guide. This guide is the starting point 
+  for anyone wanting to learn more about how to create their own Public Utility. It has links to 
+  all of the best practices documents and other guides produced by the UFWG.
 
 # Repository information
-repo_name: trustoverip/mkdocs-material
-repo_url: https://github.com/trustoverip/mkdocs-material
+repo_name: trustoverip/IG0029-utility-project-guide
+repo_url: https://github.com/trustoverip/IG0029-utility-project-guide
 
 # Content Generator Settings
 docs_dir: 'docs'
@@ -98,7 +99,7 @@ markdown_extensions:
 
 # Additional content
 extra:
-  title: 'XX0000: Deliverable Name'
+  title: 'IG0029: Utility Project Implementation Guide'
   lf_url: https://www.linuxfoundation.org/projects
   toip_url: https://trustoverip.org/
   social:
