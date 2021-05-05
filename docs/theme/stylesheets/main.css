@@ -38,6 +38,7 @@
 /* Adjust for higher header */
 .md-header-nav {
   align-items: center;
+  display: flex;
 }
 
 /* Adjust for higher header */

@@ -36,9 +36,9 @@
 # -----------------------------------------------------------------------------
 
 # Repo Instance Specific
-REPO_NAME ?= IG0029-utility-project-guide
-UPSTREAM_REPO ?= https://github.com/trustoverip/IG0029-utility-project-guide
-DEV_SITE_PORT ?= https://localhost:8080
+REPO_NAME ?= mkdocs-material
+UPSTREAM_REPO ?= https://github.com/trustoverip/mkdocs-material.git
+DEV_SITE_PORT ?= 8080
 
 # Template Repo Defaults
 TEMPLATE_REPO ?= https://github.com/trustoverip/mkdocs-material.git
